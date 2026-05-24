@@ -1,0 +1,106 @@
+aid: nuscale
+name: NuScale Power
+description: >-
+  NuScale Power is a Portland, Oregon-based small modular reactor (SMR)
+  company developing the NuScale Power Module (NPM), a 77 MWe pressurized
+  light-water reactor that is the first — and to date one of only two —
+  SMR designs to receive design approval from the U.S. Nuclear Regulatory
+  Commission. Originally certified in 2020 at 50 MWe and uprated to 77 MWe
+  under the US460 Standard Design Approval issued by the NRC on May 29,
+  2025, the NPM is delivered as a factory-fabricated, rail-shippable
+  cylindrical containment vessel using passive natural-circulation safety
+  features. Its commercial offering, the VOYGR SMR power plant, is sold
+  in 4-, 6-, and 12-module configurations (308, 462, and 924 MWe
+  respectively) and is targeted at utilities, data centers, hydrogen
+  production, district heating, desalination, and industrial process
+  heat. NuScale traces its origins to Oregon State University research
+  begun in 2000 and was formally founded in 2007; Fluor Corporation
+  became majority investor in 2011. The company went public on the NYSE
+  in 2022 (ticker SMR) through a SPAC merger with Spring Valley
+  Acquisition Corp., becoming the first publicly traded pure-play SMR
+  vendor. NuScale partners exclusively with ENTRA1 Energy for global
+  commercialization and operates Energy Exploration (E2) Centers — full
+  control-room simulators hosted at Oregon State University, Texas A&M,
+  the University of Idaho, and SNU in South Korea — for operator and
+  regulator training. The high-profile Utah Associated Municipal Power
+  Systems (UAMPS) Carbon Free Power Project at Idaho National Laboratory
+  was terminated in November 2023 after costs rose from $58 to $89/MWh
+  and subscription targets fell short, leaving NuScale without a
+  first-of-a-kind US deployment and prompting a focus on data-center,
+  industrial, and international (Romania RoPower, Poland KGHM, Ghana,
+  Standard Power) opportunities. NuScale's revenue model is power-module
+  sales/leasing, EPC services, and plant lifecycle services — there is
+  no public developer API, SDK, or open-source release. NPM design data,
+  topical reports, and safety analysis are conveyed through NRC docket
+  filings and topical reports rather than a developer portal.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Nuclear
+  - Small Modular Reactor
+  - SMR
+  - VOYGR
+  - NuScale Power Module
+  - US460
+  - Light Water Reactor
+  - Passive Safety
+  - Carbon Free Energy
+  - Clean Energy
+  - Energy
+  - Utilities
+  - Data Center Power
+  - Hydrogen
+  - Desalination
+  - Process Heat
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/nuscale/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.nuscalepower.com
+  - type: About
+    url: https://www.nuscalepower.com/en/about
+  - type: Leadership
+    url: https://www.nuscalepower.com/en/about/leadership
+  - type: Technology
+    url: https://www.nuscalepower.com/en/products/nuscale-power-module
+  - type: VOYGR
+    url: https://www.nuscalepower.com/en/products/voygr-smr-plants
+  - type: Research
+    url: https://www.nuscalepower.com/en/about/research
+  - type: Publications
+    url: https://www.nuscalepower.com/en/about/research/publications
+  - type: PlantServices
+    url: https://www.nuscalepower.com/en/products/plant-services
+  - type: E2Center
+    url: https://www.nuscalepower.com/en/products/e2-center
+  - type: Newsroom
+    url: https://www.nuscalepower.com/en/news
+  - type: PressReleases
+    url: https://www.nuscalepower.com/en/news/press-releases
+  - type: InvestorRelations
+    url: https://www.nuscalepower.com/investors
+  - type: SECFilings
+    url: https://www.nuscalepower.com/investors/sec-filings
+  - type: AnnualReports
+    url: https://www.nuscalepower.com/investors/annual-reports
+  - type: Careers
+    url: https://www.nuscalepower.com/en/careers
+  - type: Contact
+    url: https://www.nuscalepower.com/en/contact
+  - type: NRCDocket
+    url: https://www.nrc.gov/reactors/new-reactors/advanced/who-were-working-with/applicant-projects/nuscale-us460
+  - type: Twitter
+    url: https://twitter.com/NuScale_Power
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/nuscale-power
+  - type: YouTube
+    url: https://www.youtube.com/@NuScalePower
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
