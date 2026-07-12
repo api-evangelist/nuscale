@@ -61,6 +61,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/nuscale-domain-security.yml
   - type: Website
     url: https://www.nuscalepower.com
   - type: About
@@ -101,6 +103,8 @@ common:
     url: https://www.linkedin.com/company/nuscale-power
   - type: YouTube
     url: https://www.youtube.com/@NuScalePower
+  - url: https://www.nuscalepower.com/press-releases/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
