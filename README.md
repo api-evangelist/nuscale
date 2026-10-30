@@ -1,4 +1,4 @@
-# nuscale
+# NuScale Power
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NuScale Power — VOYGR SMR plants and the NRC-certified NuScale Power Module (US460, 77 MWe)
+NuScale Power is a Portland, Oregon-based small modular reactor (SMR) company developing the NuScale Power Module (NPM), a 77 MWe pressurized light-water reactor that is the first — and to date one of only two — SMR designs to receive design approval from the U.S. Nuclear Regulatory Commission. Originally certified in 2020 at 50 MWe and uprated to 77 MWe under the US460 Standard Design Approval issued by the NRC on May 29, 2025, the NPM is delivered as a factory-fabricated, rail-shippable cylindrical containment vessel using passive natural-circulation safety features. Its commercial offering, the VOYGR SMR power plant, is sold in 4-, 6-, and 12-module configurations (308, 462, and 924 MWe respectively) and is targeted at utilities, data centers, hydrogen production, district heating, desalination, and industrial process heat. NuScale traces its origins to Oregon State University research begun in 2000 and was formally founded in 2007; Fluor Corporation became majority investor in 2011. The company went public on the NYSE in 2022 (ticker SMR) through a SPAC merger with Spring Valley Acquisition Corp., becoming the first publicly traded pure-play SMR vendor. NuScale partners exclusively with ENTRA1 Energy for global commercialization and operates Energy Exploration (E2) Centers — full control-room simulators hosted at Oregon State University, Texas A&M, the University of Idaho, and SNU in South Korea — for operator and regulator training. The high-profile Utah Associated Municipal Power Systems (UAMPS) Carbon Free Power Project at Idaho National Laboratory was terminated in November 2023 after costs rose from $58 to $89/MWh and subscription targets fell short, leaving NuScale without a first-of-a-kind US deployment and prompting a focus on data-center, industrial, and international (Romania RoPower, Poland KGHM, Ghana, Standard Power) opportunities. NuScale's revenue model is power-module sales/leasing, EPC services, and plant lifecycle services — there is no public developer API, SDK, or open-source release. NPM design data, topical reports, and safety analysis are conveyed through NRC docket filings and topical reports rather than a developer portal.
+
+**Areas:** Nuclear · Small Modular Reactor · SMR · VOYGR · NuScale Power Module · US460 · Light Water Reactor · Passive Safety · Carbon Free Energy · Clean Energy · Energy · Utilities
+
+## NuScale Power on APIs.io
+
+Everything profiled for NuScale Power is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nuscale/](https://apis.io/providers/nuscale/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nuscale Domain Security](https://apis.io/security/nuscale/nuscale-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.nuscalepower.com)
+- [Blog](https://www.nuscalepower.com/press-releases/rss.xml)
+
+## API Evangelist rating
+
+**Kin Score 4.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nuscale/](https://apis.io/providers/nuscale/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for NuScale Power: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nuscale/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
